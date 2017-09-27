@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>items</key>
+        <array>
+                <dict>
+                        <key>assets</key>
+                        <array>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>software-package</string>
+                                        <key>url</key>
+                                        <string>http://188.188.0.110/clients/CHANNEL_QA/iOS/aojian2.ipa</string>
+                                </dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://188.188.0.110/Icon120.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://188.188.0.110/Icon120.png</string>
+				</dict>
+                        </array>
+                        <key>metadata</key>
+                        <dict>
+                                <key>bundle-identifier</key>
+                                <string>com.ts.aojian2</string>
+                                <key>bundle-version</key>
+                                <string>1.0</string>
+                                <key>kind</key>
+                                <string>software</string>
+				<key>subtitle</key>
+				<string>ÐÂ°Á½£2</string>
+                                <key>title</key>
+                                <string>ÐÂ°Á½£2</string>
+                        </dict>
+                </dict>
+        </array>
+</dict>
+</plist>
