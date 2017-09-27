@@ -33,15 +33,15 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.ts.aojian2</string>
+                                <string>com.tshd.AoJian2</string>
                                 <key>bundle-version</key>
-                                <string>1.0</string>
+                                <string>1.1</string>
                                 <key>kind</key>
                                 <string>software</string>
 				<key>subtitle</key>
-				<string>aojian2</string>
+				<string>AoJian2</string>
                                 <key>title</key>
-                                <string>aojian2</string>
+                                <string>AoJian2</string>
                         </dict>
                 </dict>
         </array>
