@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ï»¿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -39,9 +39,9 @@
                                 <key>kind</key>
                                 <string>software</string>
 				<key>subtitle</key>
-				<string>ÐÂ°Á½£2</string>
+				<string>aojian2</string>
                                 <key>title</key>
-                                <string>ÐÂ°Á½£2</string>
+                                <string>aojian2</string>
                         </dict>
                 </dict>
         </array>
