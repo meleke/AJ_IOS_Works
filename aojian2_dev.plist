@@ -33,7 +33,7 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.tshd.AoJian2</string>
+                                <string>com.ts.aojian2</string>
                                 <key>bundle-version</key>
                                 <string>1.1</string>
                                 <key>kind</key>
